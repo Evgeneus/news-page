@@ -305,10 +305,11 @@ form input {
     background-color: #fafafa;
     margin-left: 30%;
     margin-right: 30%;
+    font-size: 1em;
 }
 
 form input:focus, form textarea:focus {
-    border: 2px solid #f48b8b;
+    border: 2px solid #62f480;
 }
 
 form label {
